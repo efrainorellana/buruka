@@ -4,7 +4,9 @@ html {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-}:;
+}
+
+
 
 .div1{
 	width: 940px;
@@ -50,10 +52,15 @@ a { text-decoration: none;
 color: white ;
 }
 
+
 a:hover {
     color: blue;
 }
+ body{
+ 	font-family: kenyan koffee rg;
 
+
+ }
 
 .div3{
 	width:580px;
@@ -68,8 +75,8 @@ a:hover {
 	width: 360px;
 	height: 60px;
 	float: right;
-	font-family: kenyan coffee rg;
-	font-size: 48pt;
+	font-family: Arial;
+	font-size: 37pt;
     text-align: center;
     margin-top: 3%;
 }
@@ -78,7 +85,7 @@ a:hover {
 	width: 360px;
 	height: 50px;
 	float: right;
-	font-family: kenyan coffee rg;
+	font-family: Arial;
 	font-size: 24pt;
     text-align: center;
 }
@@ -87,8 +94,8 @@ a:hover {
 	width: 360px;
 	height: 100px;
 	float: right;
-	font-family: kenyan coffee rg;
-	font-size: 45pt;
+	font-family: Arial;
+	font-size: 30pt;
 	text-align: center;
 	color: #09a3a3;
 
@@ -106,7 +113,7 @@ a:hover {
 	width: 360px;
 	height: 200px;
 	float: right;
-	font-family: kenyan coffee rg;
+	font-family: Arial;
 	font-size: 12pt;
 	text-align: center;
 	margin-top: 5%;
@@ -116,18 +123,18 @@ a:hover {
 
 .div9{
 	width: 360px;
-	height: 60px;
+	height: 40px;
 	
-	font-family: kenyan coffee rg;
-	font-size: 48pt;
+	font-family: Arial;
+	font-size: 35pt;
     
     margin-top: 3%;
 }
 
 .div10{
 	width: 360px;
-	height: 50px;
-	font-family: kenyan coffee rg;
+	height: 20px;
+	font-family: Arial;
 	font-size: 24pt;
     
 }
@@ -135,8 +142,8 @@ a:hover {
 .div11{
 	width: 360px;
 	height: 80px;
-	font-family: kenyan coffee rg;
-	font-size: 45pt;
+	font-family: Arial;
+	font-size: 40pt;
 
 	color: #09a3a3;
 
@@ -160,8 +167,8 @@ a:hover {
 .div12{
 	width: 450px;
 	height: 100px;
-	font-family: kenyan coffee rg;
-	font-size: 16pt;
+	font-family: Arial;
+	font-size: 12pt;
 	float: left;
 
 
@@ -217,7 +224,7 @@ a:hover {
 	width: 900px;
 	height: 30px;
 	
-	font-family: kenyan coffee rg;
+	font-family: Arial;
 	font-size: 18pt;
     
     margin-top: 3%;
@@ -231,7 +238,7 @@ a:hover {
 .div22{
 	width: 360px;
 	height: 80px;
-	font-family: kenyan coffee rg;
+	font-family: Arial;
 	font-size: 35pt;
 	margin-top: 0%;
 	color: #09a3a3;
@@ -345,6 +352,7 @@ nav ul {
 	margin-left: 5%;
 	
 	font-size: 16pt;
+	font-family: Arial; 
 }
 nav ul li {
 	display: inline-block;
@@ -352,7 +360,7 @@ nav ul li {
 	margin-left: 6%;
 
 
-	font-family: Harlow Solid Italic;
+	font-family: Arial;
 	font-size:12pt;
 
 
@@ -360,7 +368,7 @@ nav ul li {
 
 footer{
 	
-	font-family: kenyan coffee rg;
+	font-family: Arial;
 	font-size: 14pt;
 	margin-left: 27%;
 }
